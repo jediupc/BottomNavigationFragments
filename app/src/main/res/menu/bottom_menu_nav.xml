@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
+        android:id="@+id/action_profile"
         android:title="@string/profile"
         android:icon="@drawable/ic_person_outline_black_24dp"/>
     <item
+        android:id="@+id/action_calc"
         android:title="@string/calculator"
         android:icon="@drawable/ic_calculator"/>
     <item
+        android:id="@+id/action_memory"
         android:title="@string/memory"
         android:icon="@drawable/ic_card"/>
 </menu>
